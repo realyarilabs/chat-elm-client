@@ -1,4 +1,13 @@
-# elm-package generated files
+node_modules
 elm-stuff
-# elm-repl generated files
-repl-temp-*
+elm-stuff_old
+npm-debug.log
+.project
+elm.js
+dist
+erl_crash.dump
+.DS_Store
+dist/*.zip
+elm-stuff
+dist.zip
+src/static/example/yarilabs-stuff/tmp-yarilabs_chat_embed.js
