@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="26.811113mm"
+   height="26.811113mm"
+   viewBox="0 0 26.811113 26.811113"
+   version="1.1"
+   id="svg356"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="gif (copy).svg">
+  <defs
+     id="defs350" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-22.798608"
+     inkscape:cy="63.513575"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata353">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.8016892,-1.4289272)">
+    <g
+       id="g335"
+       transform="matrix(0.06833003,0,0,-0.06911748,-357.19142,52.157923)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28"
+         style="fill:none;stroke:#2a2946;stroke-width:20;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5450,360 c 99.41,0 180,80.59 180,180 0,99.41 -80.59,180 -180,180 -99.41,0 -180,-80.59 -180,-180 0,-99.41 80.59,-180 180,-180 z m -10.38,180.379 V 617.5 h 7.17 v -77.121 h 80.71 v -7.172 h -80.71 V 452.5 h -7.17 v 80.707 h -77.12 v 7.172 z" />
+    </g>
+  </g>
+</svg>
